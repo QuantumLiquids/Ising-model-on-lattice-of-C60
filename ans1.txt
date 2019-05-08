@@ -1,1 +1,4 @@
-1.3073684577607940
+1.3073684577607942844 (given by analytical solution)
+1.307368457760794 (given by numerical tensor network method, ED)
+
+We also get the analytical solution show in the note "Analytical_solution.nb"
